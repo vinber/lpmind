@@ -4,7 +4,7 @@ Dépôt de travail pour les étudiants de la LPMIND, promo 2020
 
 # 2020-12-11
 
-Chaque étudiant-e a une page dans un des dossiers de 1 à 12.
+Chaque étudiant-e a une page dans [un des dossiers de 1 à 12](/2020-12-11/).
 
 Cette page est écrite en markdown.
 
